@@ -14,7 +14,7 @@ from telegram.ext import (
     filters,
 )
 
-BOT_TOKEN = "8649573096:AAFqc9-mqxDyqderkYhJksXD77zLGdb8OwY"
+BOT_TOKEN = "ТОКЕН_БОТА"
 
 GROQ_API_KEY = "КЛЮЧ_ГРОК_АПИ"
 
